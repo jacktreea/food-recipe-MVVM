@@ -1,4 +1,4 @@
-package com.example.recipe.Activities;
+package com.example.recipe.activities;
 
 import android.view.View;
 import android.widget.FrameLayout;
